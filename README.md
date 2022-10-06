@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-der&theme=algolia" alt="yassine-der" /></p>
 
 <br>
 <br>
@@ -179,10 +179,6 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-
-## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
